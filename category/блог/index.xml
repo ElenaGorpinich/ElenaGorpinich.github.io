@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог | Academic</title>
+    <link>https://example.com/category/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <atom:link href="https://example.com/category/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Блог</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 16:30:59 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Блог</title>
+      <link>https://example.com/category/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+    </image>
+    
+    <item>
+      <title>Прошедшая неделя (2.05.22 - 8.05.22)</title>
+      <link>https://example.com/post/123/</link>
+      <pubDate>Sat, 07 May 2022 16:30:59 +0300</pubDate>
+      <guid>https://example.com/post/123/</guid>
+      <description>&lt;p&gt;Прошедшая неделя началась с выходного дня, точнее со 2 мая - выходному приуроченному к Празднику Весны и Труда . Оставшиеся дни следовали нашему привычному расписанию, то есть два дня обучения (среда и четверг) прошли в очном формате, а остальные в дистанционном.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
